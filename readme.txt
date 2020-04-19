@@ -32,3 +32,10 @@ git checkout 分支名（切换分支）
 
 git merge 分支名（合并分支）
 注意：先切换到主分支，可能产生冲突
+
+git remote add origin（别名）https://github.com/xxx/xxx.git
+
+git push -u origin master
+git push -u origin dev
+
+git clone https://github.com/xxx/xxx.git
