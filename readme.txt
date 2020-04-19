@@ -21,3 +21,14 @@ git checkout -- filename（从红色状态返回未修改状态）
 git reset --soft 版本号（从版本库返回绿色状态）
 
 git reset --mix 版本号（从版本库返回红色状态）
+
+git branch（查看分支）
+
+git branch 分支名（创建分支）
+
+git branch -d 分支名（删除分支）
+
+git checkout 分支名（切换分支）
+
+git merge 分支名（合并分支）
+注意：先切换到主分支，可能产生冲突
