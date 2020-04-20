@@ -12,6 +12,8 @@ git commit -m 'xxx'
 
 git log
 
+git reflog
+
 git reset --hard 版本号（从版本库返回未修改状态）
 
 git reset HEAD filename（从绿色状态返回红色状态）
