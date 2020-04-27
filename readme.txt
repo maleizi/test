@@ -41,3 +41,5 @@ git push -u origin master
 git push -u origin dev
 
 git clone https://github.com/xxx/xxx.git
+
+git pull origin dev
